@@ -1,4 +1,12 @@
 # train_models_Python
+
+* Python libraries required:
+* NumPy
+* pandas
+* seaborn
+* matplotlib
+* scikit-learn
+  
 * multiclass_classification.py:
 
    Python script which applies machine learning to train and test model by:
