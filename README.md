@@ -9,7 +9,7 @@
   
 * multiclass_classification.py:
 
-   Python script which applies machine learning to train and test model by:
+   Python script applying machine learning to train and test model by:
     - scaling the numerical data and combine the scaled numerical data to the original dataset
     - copy the categorical columns to a variable and remove target_col from that variable
     - use one-hot encoding on the categorical variables (minus the target_col)
