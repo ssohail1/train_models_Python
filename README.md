@@ -9,4 +9,4 @@
     - 5th: Encode the target_col and save to new variable
     - 6th: set X and y variables where X has all data minus target_col and y has only target_col
     - 7th: apply train_test_split() on the X and y variables
-    - 8th: fit a logistic regression model on the training data followed by a predict() on the test data
+    - 8th: fit a logistic regression model on the training data followed by model prediction on X_test
